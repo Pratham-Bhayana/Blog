@@ -65,3 +65,9 @@ gsap.from('.hero-logo', {
 
   });
 
+
+
+  function redirectToBlog() {
+    window.location.href = "blog.html"; // Redirects to blog.html
+}
+
